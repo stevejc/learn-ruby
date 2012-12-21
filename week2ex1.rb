@@ -2,7 +2,7 @@ s = "Welcome to the forum.\nHere you can learn Ruby.\nAlong with other members.\
 
 lines = s.split("\n")
 
-lines.each_with_index {|line, line_num| puts "Line #{line_num.next}: #{line}"}
+lines.to_enum.with_index(1) {|line, line_num| puts "Line #{line_num}: #{line}"}
 
 
 
