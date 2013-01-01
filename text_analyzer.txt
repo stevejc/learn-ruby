@@ -1,0 +1,8 @@
+There are 6267 characters
+There are 5175 characters not including spaces
+There are 121 lines
+There are 1093 words
+There are 44 sentences
+There are 18 paragraphs
+There are 24 words per sentence on average
+There are 2 sentences per paragraph on average
